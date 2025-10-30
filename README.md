@@ -85,4 +85,4 @@
 
 ---
 
-> 🔥 Made with ❤️ by name – Keep Learning, Keep Coding!
+>  Keep Learning, Keep Coding!
