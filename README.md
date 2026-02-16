@@ -1,88 +1,74 @@
-<!-- 🎨 Custom Banner -->
+<h1 align="center">Hi 👋, I'm Ishita Patil</h1>
+<h3 align="center">🚀 Data Science & Data Analyst Enthusiast | BCA Student | India 🇮🇳</h3>
 
-
-<!-- ✨ Greetings -->
-<h1 align="center">Hi 👋, I'm ishita </h1>
-<h3 align="center">🚀 A Passionate Software Engineer | BCA 2nd Year Student | India 🇮🇳</h3>
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" alt="Coding" width="400"/>
-</p>
+## 🎯 Career Objective
+Aspiring Data Analyst/Data Scientist seeking an opportunity to apply skills in Python, SQL, Power BI, and Machine Learning to solve real-world business problems.
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Shraddha&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
-</p>
+## 👩‍💻 About Me
+- 🎓 Pursuing **BCA – 2nd Year**
+- 💡 Passionate about **Data Science, AI & Data Analytics**
+- 📊 Skilled in **Python, SQL, Power BI, Tableau**
+- 🤖 Exploring **Machine Learning & Deep Learning**
+- 📈 Strong in **Mathematics & Statistics**
+- 🚀 Love solving real-world problems using data
 
 ---
 
-## 🌐 About Me
+## 🛠️ Tech Stack
 
-- 🎓 Pursuing *Bachelor of Computer Applications (BCA) - 2nd Year*
-- 💻 Passionate about coding and building practical software projects
-- 🔭 Currently learning Python, Java, and Frontend Web Development
-- 🌱 Exploring Machine Learning, DSA, and Database Design
-- 📂 Projects & Resources: [Linktree Portfolio](https://linktr.ee/simplified_learner)
-- 🤓 Fun Fact: *I love turning coffee into code ☕*
+### 💻 Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+### 📊 Data Science & Tools
+![SQL](https://img.shields.io/badge/SQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+
+### 🤖 AI / ML
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-blue?style=for-the-badge)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-red?style=for-the-badge)
+![AI](https://img.shields.io/badge/Artificial%20Intelligence-black?style=for-the-badge)
+
+---
+## 📌 Featured Projects
+
+### 🔹 Depreciation Calculator (Advanced Excel)
+- Developed an automated depreciation calculator using Advanced Excel formulas  
+- Implemented Straight Line Method (SLM) and Written Down Value (WDV)  
+- Reduced manual calculation errors and improved financial accuracy  
+- Enhanced efficiency in financial computations through automation  
 
 ---
 
-## 📬 Connect with Me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
-  </a>
-  <a href="https://instagram.com/simplified_learner" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="https://www.youtube.com/@YOURCHANNEL" target="_blank">
-    <img src="https://img.shields.io/badge/-YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
-  </a>
-</p>
+### 🔹 Financial Analysis Dashboard (Advanced Excel)
+- Performed financial data analysis to evaluate profitability and expense trends  
+- Built dynamic dashboards using Pivot Tables, Charts, and Slicers  
+- Applied financial ratios to support business decision-making  
+- Delivered insights for better financial planning and performance tracking  
 
 ---
 
-## 🛠️ Languages & Tools
-
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-</p>
+### 🔹 Supply Chain & Finance Analytics (SQL)
+- Analyzed supply chain and financial datasets using SQL (JOINs, Subqueries, Aggregations)  
+- Evaluated costs, revenue trends, and supplier performance  
+- Optimized reporting using structured queries and data grouping  
+- Enabled data-driven decision-making for operational efficiency  
 
 ---
 
-## ☕ Support My Work
+### 🔹 Sales Analysis Dashboard (Power BI)
+- Designed an interactive sales dashboard using Power BI  
+- Visualized KPIs such as revenue, profit, and sales growth  
+- Used filters and slicers for dynamic data exploration  
+- Improved business insights through clear and interactive visualizations
 
-<p align="left">
-  <a href="https://www.buymeacoffee.com/simplified" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee"/>
-  </a>
-</p>
-
----
-
-## 📊 GitHub Status
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=name&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=name&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=name&theme=tokyonight" alt="GitHub Streak"/>
-</p>
-
----
-
->  Keep Learning, Keep Coding!
+  ## 💡 Strengths
+- Strong analytical and problem-solving skills  
+- Quick learner with a growth mindset  
+- Ability to work with data and derive insights  
+- Good understanding of OOP concepts  
